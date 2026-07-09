@@ -6,5 +6,6 @@ namespace ConsoleApp
 {
     internal class UserStorage
     {
+        // Это изменение для подзадачи 4
     }
 }

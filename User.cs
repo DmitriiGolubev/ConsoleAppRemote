@@ -6,5 +6,6 @@ namespace ConsoleApp
 {
     internal class User
     {
+        // Это изменение для подзадачи 4
     }
 }
