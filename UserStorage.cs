@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp
 {
-    internal class BookStorage
+    internal class UserStorage
     {
     }
 }
