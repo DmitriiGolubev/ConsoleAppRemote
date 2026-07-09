@@ -8,6 +8,7 @@ namespace ConsoleApp
         {
             // Это изменение для подзадачи 1
             Console.WriteLine("Hello World!");
+            // Это изменение для подзадачи 2
         }
     }
 }
